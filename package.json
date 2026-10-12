@@ -69,7 +69,7 @@
     "postcss": "^8.5.29",
     "typescript": "5.9.3",
     "typescript-eslint": "^8.71.1",
-    "vite": "^6.4.3",
+    "vite": "^6.4.4",
     "vite-plugin-inspect": "^11.4.1",
     "vitest": "^3.2.7"
   },
